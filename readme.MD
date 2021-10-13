@@ -20,38 +20,38 @@ Admin mode can be used on `./publication/index.html` & `./resources/project.html
 #### 4)Directory Structure
 All the static Javascript\CSS libraries and images are inside `assets` folder. Further rendering resources various sections of website are stored inside corresponding folder name. `index.html` can be considered starting point or root of website.<br />
 <pre>
-|->index.html<br />
-|->assets<br />
-|->people<br />
-|    |->faculty.html<br />
-|    |->phd.html<br />
-|    |->ms.html<br />
-|    |->btech.html<br />
-|    |->intern.html<br />
-|    |->profile.html<br />
-|    |->profile.js<br />
-|<br />
-|->publication<br />
-|    |->index.html<br />
-|    |->script.js<br />
-|<br />
-|->focus<br />
-|    |->index.html<br />
-|    |->script.js<br />
-|<br />
-|->Events<br />
-|    |->lib<br />
-|    |->index.html<br />
-|    |->script.js<br />
-|<br />
-|->resources<br />
-|    |->project.html<br />
-|    |->dataset.html<br />
-|    |->demo.html<br />
-|    |->download.html<br />
-|    |->poster.html<br />
-|    |->script.js<br />
-|<br />
-|->contact<br />
-|    |->index.html<br /></pre>
+|->index.html
+|->assets
+|->people
+|    |->faculty.html
+|    |->phd.html
+|    |->ms.html
+|    |->btech.html
+|    |->intern.html
+|    |->profile.html
+|    |->profile.js
+|
+|->publication
+|    |->index.html
+|    |->script.js
+|
+|->focus
+|    |->index.html
+|    |->script.js
+|
+|->Events
+|    |->lib
+|    |->index.html
+|    |->script.js
+|
+|->resources
+|    |->project.html
+|    |->dataset.html
+|    |->demo.html
+|    |->download.html
+|    |->poster.html
+|    |->script.js
+|
+|->contact
+|    |->index.html</pre>
 
