@@ -6,7 +6,7 @@
 `Bootstrap` `Jquery`
 
 #### 2)Features of Website
-`Home` : Home tab include an interactive carousel and live twitter feed alongwith some static data. Home tab can serve as starting point of the website.
+`Home` : Home tab include an interactive carousel and live twitter feed alongwith some static data. Home tab can serve as starting point of the website.<br />
 `People` : People tab has various subsections like faculty, PHD students , MS students etc. Each subsections shows some dummy profiles. Clicking on the profile redirects to profile.html which laods data dynamically from remote json file. Currently for demonstration purpose profile.html uses [Json](https://data-host.github.io/data/profile.json).
 `Publications` : Publication tab dynamically loads data of different faculty members from [DBLP](https://dblp.org/). These entries can be further categorized based on year of publication. Publication tab also has admin mode, whoose feture is discussed below.
 `Focus Areas` : Focus Area shows various areas with auto ZOOM IN feature.
