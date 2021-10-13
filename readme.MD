@@ -19,6 +19,7 @@ Admin mode can be used on `./publication/index.html` & `./resources/project.html
 
 #### 4)Directory Structure
 All the static Javascript\CSS libraries and images are inside `assets` folder. Further rendering resources various sections of website are stored inside corresponding folder name. `index.html` can be considered starting point or root of website.<br />
+<pre>
 |->index.html<br />
 |->assets<br />
 |->people<br />
@@ -52,5 +53,5 @@ All the static Javascript\CSS libraries and images are inside `assets` folder. F
 |    |->script.js<br />
 |<br />
 |->contact<br />
-|    |->index.html<br />
+|    |->index.html<br /></pre>
 
